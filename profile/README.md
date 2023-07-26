@@ -1,6 +1,8 @@
 # Siemens Research
 
-This organization hosts research projects by Siemens. Click on the badges below to find more Siemens [open source projects](https://opensource.siemens.com)!
+This organization hosts research projects by Siemens.
+
+Click on the badges below to find more Siemens [open source projects](https://opensource.siemens.com)!
 
 [![Industrial Edge](https://img.shields.io/badge/github-industrial%20edge-e39537?logo=github)](https://github.com/industrial-edge)
 [![Industrial IoT](https://img.shields.io/badge/github-industrial%20iot-003751?logo=github)](https://github.com/mindsphere)
